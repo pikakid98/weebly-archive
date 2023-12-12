@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+pikakid98studioslegal.weebly.com	TRUE	/	FALSE	1999999999	is_mobile	0
+tsoasnc-walkthrough.weebly.com	TRUE	/	FALSE	1999999999	is_mobile	0
+am2r-lives.weebly.com	TRUE	/	FALSE	1999999999	is_mobile	0
+thepikakid98graveyard.weebly.com	TRUE	/	FALSE	1999999999	is_mobile	0
+am2r-lives.weebly.com	TRUE	/	FALSE	1999999999	language	en
+pikakid98studioslegal.weebly.com	TRUE	/	FALSE	1999999999	language	en
+tsoasnc-walkthrough.weebly.com	TRUE	/	FALSE	1999999999	language	en
+thepikakid98graveyard.weebly.com	TRUE	/	FALSE	1999999999	language	en
+
